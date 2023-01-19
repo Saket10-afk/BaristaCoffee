@@ -1,0 +1,15 @@
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\bin\Debug\net6.0\BaristaCofee.exe
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\bin\Debug\net6.0\BaristaCofee.deps.json
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\bin\Debug\net6.0\BaristaCofee.runtimeconfig.json
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\bin\Debug\net6.0\BaristaCofee.dll
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\bin\Debug\net6.0\BaristaCofee.pdb
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\BaristaCofee.csproj.AssemblyReference.cache
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\BaristaCofee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\BaristaCofee.AssemblyInfoInputs.cache
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\BaristaCofee.AssemblyInfo.cs
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\BaristaCofee.csproj.CoreCompileInputs.cache
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\BaristaCofee.dll
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\refint\BaristaCofee.dll
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\BaristaCofee.pdb
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\BaristaCofee.genruntimeconfig.cache
+C:\Users\saket.saxena\source\repos\BaristaCofee\BaristaCofee\obj\Debug\net6.0\ref\BaristaCofee.dll
